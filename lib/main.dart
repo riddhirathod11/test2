@@ -11,7 +11,7 @@ const ResponsiveApp({super.key});
 Widget build(BuildContext context) {
 return MaterialApp(
 debugShowCheckedModeBanner: false,
-title: 'Responsive Websitejmbmb',
+title: 'Responsive Website',
 theme: ThemeData(
 colorScheme: ColorScheme.fromSeed(
 seedColor: Colors.indigo,
